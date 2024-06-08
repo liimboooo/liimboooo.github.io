@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-minimal
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -14,12 +14,12 @@ timezone: Asia/Kuala_Lumpur
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: warlocksmurf
+title: limami
 
 tagline: DFIR and OSINT enjoyer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A blog about CTF writeups with a focus on forensics, OSINT and hardware/IoT
+  sjhjs  just tesssssssstttttt
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
